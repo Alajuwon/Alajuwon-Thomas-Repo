@@ -1,0 +1,26 @@
+p {
+  background-color: gray;
+} 
+body {
+  background-color: #eef;
+}
+ol {
+  color: gray;
+}
+li {
+  color: black;
+}
+a {
+  color: gray;
+}
+b {
+  color: white;
+}
+
+.search{
+  font-size:18px;
+}
+.group{
+  font-size:13px;
+  color: black;
+}
